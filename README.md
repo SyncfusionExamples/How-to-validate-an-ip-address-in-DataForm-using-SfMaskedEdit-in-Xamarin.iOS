@@ -1,6 +1,6 @@
 # How to validate an IP address in DataForm using SfMaskedEdit in Xamarin.iOS
 
-This repository contains sample for how to validate an ip address in SfDataForm using the [Syncfusion Xamarin.iOS Masked Edit](https://help.syncfusion.com/xamarin-ios/sfmaskededit/getting-started) control.
+This repository contains sample to validate an ip address in SfDataForm using the [Syncfusion Xamarin.iOS Masked Edit](https://help.syncfusion.com/xamarin-ios/sfmaskededit/getting-started) control.
 
 ## Syncfusion controls
 
