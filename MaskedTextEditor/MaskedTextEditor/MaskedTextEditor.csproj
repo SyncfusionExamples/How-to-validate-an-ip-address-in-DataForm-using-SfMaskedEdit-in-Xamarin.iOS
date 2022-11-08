@@ -83,19 +83,19 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
     <Reference Include="Syncfusion.Licensing">
-      <HintPath>..\packages\Syncfusion.Licensing.16.3.0.21\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Licensing.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfNumericTextBox.iOS">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfNumericTextBox.IOS.16.3.0.21\lib\Xamarin.iOS10\Syncfusion.SfNumericTextBox.iOS.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Xamarin.SfNumericTextBox.IOS.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.SfNumericTextBox.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfNumericUpDown.iOS">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfNumericUpDown.IOS.16.3.0.21\lib\Xamarin.iOS10\Syncfusion.SfNumericUpDown.iOS.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Xamarin.SfNumericUpDown.IOS.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.SfNumericUpDown.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfDataForm.iOS">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfDataForm.IOS.16.3.0.21\lib\Xamarin.iOS10\Syncfusion.SfDataForm.iOS.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Xamarin.SfDataForm.IOS.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.SfDataForm.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfMaskedEdit.iOS">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfMaskedEdit.IOS.16.3.0.21\lib\Xamarin.iOS10\Syncfusion.SfMaskedEdit.iOS.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Xamarin.SfMaskedEdit.IOS.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.SfMaskedEdit.iOS.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
   </ItemGroup>
